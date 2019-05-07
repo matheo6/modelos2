@@ -1,0 +1,50 @@
+body {
+  background : url("plantilla70.jpg");
+}
+
+h2,h3{
+ 
+  color: #e1e1e1;
+  text-align: center;
+  
+}
+
+h4{
+color: #B3200C;
+text-align: center;
+}
+
+p {
+color: #e1e1e1;
+text-align: center;
+ margin-center:10%;
+  
+}
+
+li{
+color: #e1e1e1;
+   text-align: center;
+}
+ul{
+color: #e1e1e1;
+   text-align: center;
+}
+div {
+ 
+  width: 300px;
+  border: 5px solid orange;
+  padding: 50px;
+  margin: 20px;
+  opacity:0,5;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+img{
+ float: right;
+ width: 25%;	
+ 
+} 
+hr{
+color: #B36404;
+}
