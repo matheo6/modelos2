@@ -1,0 +1,29 @@
+body {
+  background : url("plantilla8.jpg");
+}
+
+h2,h3{
+ 
+  color: #e1e1e1;
+  text-align: center;
+  
+}
+
+h4{
+color: #e1e1e1;
+}
+
+p {
+color: #e1e1e1;
+ margin-center:10%;
+  
+}
+
+li{
+color: #e1e1e1;
+   text-align: center;
+}
+ul{
+color: #e1e1e1;
+   text-align: center;
+}
